@@ -29,7 +29,7 @@ const SideBar = () => {
           <AiOutlineHome className=" text-2xl w-9" />
           <button className="w-20">
             {" "}
-            <Link to="/home">Home</Link>
+            <Link to="/">Home</Link>
           </button>
         </div>
         <div className="tab ">
